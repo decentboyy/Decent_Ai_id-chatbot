@@ -1,7 +1,7 @@
 {
   "name": "𝐁𝐫𝐚𝐧𝐝𝐞𝐝 - 𝐀𝐢",
   "description": "A telegram chatting userbot",
-  "logo": "https://te.legra.ph/file/e3c1ae96d329acd2d99cf.jpg",
+  "logo": "https://graph.org/file/45b6f971145c6d52aa10e.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/WCGKING/BrandedAi",
+  "repository": "https://github.com/decentboyy/Decent_Ai_id-chatbot",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
@@ -36,7 +36,7 @@
     "OWNER_ID": {
       "description": "User id of the user who will known as owner of the bot.",
       "required": true,
-      "value": "6752444356"
+      "value": "1225278379"
     }
   }
 }
